@@ -32,7 +32,7 @@ A Python-based packet sniffer using Scapy to capture, analyze, and save network 
 
 1. Run the Packet Sniffer
     ```sh
-    python packet_sniffer.py
+    python networkanalyser.py
     ```
 
 2. Select a Network Interface
