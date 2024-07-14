@@ -19,7 +19,7 @@ A Python-based packet sniffer using Scapy to capture, analyze, and save network 
 
 1. Clone the Repository
     ```sh
-    git clone https://github.com/yourusername/packet-sniffer.git
+    git clone https://github.com/govinddjaat751/packet-sniffer.git
     cd packet-sniffer
     ```
 
